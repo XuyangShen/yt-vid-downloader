@@ -1,5 +1,5 @@
 # yt-vid-downloader
-[license](https://img.shields.io/github/license/XuyangSHEN/yt-vid-downloader)  YouTube Video Downloader
+![](https://img.shields.io/github/license/XuyangSHEN/yt-vid-downloader) YouTube Video Downloader
 
 
 
