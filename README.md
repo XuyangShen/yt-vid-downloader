@@ -1,5 +1,5 @@
 # yt-vid-downloader
-[![GitHub version](https://badge.fury.io/gh/XuyangSHEN%2yt-vid-downloader.svg)](https://badge.fury.io/gh/XuyangSHEN%2yt-vid-downloader)     YouTube Video Downloader
+[license](https://img.shields.io/github/license/XuyangSHEN/yt-vid-downloader)  YouTube Video Downloader
 
 
 
